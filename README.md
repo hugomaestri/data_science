@@ -8,7 +8,7 @@
 </p>
 
 ## Data Science Projects
-In this repository, you can find Interactive Python notebooks related to data science.
+In this repository, you can find Interactive Python Notebooks related to data science.
 
 
 
