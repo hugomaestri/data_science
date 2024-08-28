@@ -8,7 +8,24 @@
 </p>
 
 ## Data Science Projects
-In this repository, you can find Interactive Python Notebooks related to data science.
+In this repository, you can find Interactive Python Notebooks related to data science. Each notebook is related to a project, and the images and datasets used in them are in the 'images' and 'datasets' folders, respectively.
+
+## Notebooks
+- Project 1: [link]
+- Project 2: [link]
+
+## About me
+- 
+  
+I am a driven and passionate Electrical Engineer with strong experience in automotive technology and a growing expertise in data science.
+
+I hold an Electrical Engineering degree from the Federal University of Santa Catarina and an MBA in Energy Efficiency and Renewable Energy. Currently, I am pursuing a postgraduate specialization in Data Science to enhance my analytical skills and knowledge of machine learning and computer vision.
+
+My professional experience lies within the automotive sector, where I worked on EV Charging Systems and High Voltage Components in the Research and Development department at Volkswagen Truck and Bus. My focus was on e-Mobility applications, contributing to the advancement of sustainable transportation.
+
+I have a solid understanding, with proficiency in programming languages such as Python, C, and C++ and a growing proficiency in data science, machine learning, and computer vision. My current goal is to focus on these fields where I can leverage my technical background and passion for innovation and contribute to the dynamic field of data-driven technologies.
+
+You can find me on [LinkedIn](https://www.linkedin.com/in/hugo-guilherme-maestri/)
 
 
 
