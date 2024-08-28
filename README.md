@@ -14,9 +14,7 @@ In this repository, you can find Interactive Python Notebooks related to data sc
 - Project 1: [link]
 - Project 2: [link]
 
-## About me
-- 
-  
+## About me 
 I am a driven and passionate Electrical Engineer with strong experience in automotive technology and a growing expertise in data science.
 
 I hold an Electrical Engineering degree from the Federal University of Santa Catarina and an MBA in Energy Efficiency and Renewable Energy. Currently, I am pursuing a postgraduate specialization in Data Science to enhance my analytical skills and knowledge of machine learning and computer vision.
