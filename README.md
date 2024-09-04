@@ -12,7 +12,7 @@
 In this repository, you can find Interactive Python Notebooks related to data science. Each notebook is related to a project, and the images and datasets used in them are in the 'images' and 'datasets' folders, respectively.
 
 ## Notebooks
-- Project 1: [Airbnb Data Analysis - Munich](https://github.com/hugomaestri/data_science/blob/9d349ab287381691662ad90ee4afb40e169efd64/0-Airbnb_data_analysis.ipynb)
+- Project 1: [Airbnb Data Analysis - Munich](https://github.com/hugomaestri/data_science/blob/faea39ef98cd7f974b1f3984771e0916fb48ecdd/1-Airbnb_data_analysis.ipynb)
 - Project 2: [link]
 
 ## About me 
