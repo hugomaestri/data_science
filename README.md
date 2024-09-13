@@ -13,7 +13,7 @@ In this repository, you can find Interactive Python Notebooks related to data sc
 
 ## Notebooks
 - Project 1: [Airbnb Data Analysis - Munich](https://github.com/hugomaestri/data_science/blob/faea39ef98cd7f974b1f3984771e0916fb48ecdd/1-Airbnb_data_analysis.ipynb)
-- Project 2: [link]
+- Project 2: [Worldwide Covid-19 Overview](https://github.com/hugomaestri/data_science/blob/6e1fde79914ba1c792cb393a6ba9253ecf2c1207/2-Worldwide_Covid-19_Overview.ipynb)
 
 ## About me 
 I am a driven and passionate Electrical Engineer with strong experience in automotive technology and a growing expertise in data science.
