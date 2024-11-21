@@ -15,6 +15,7 @@ In this repository, you can find Interactive Python Notebooks related to data sc
 - Project 1: [Airbnb Data Analysis - Munich](https://github.com/hugomaestri/data_science/blob/faea39ef98cd7f974b1f3984771e0916fb48ecdd/1-Airbnb_data_analysis.ipynb)
 - Project 2: [Worldwide Covid-19 Overview](https://github.com/hugomaestri/data_science/blob/6e1fde79914ba1c792cb393a6ba9253ecf2c1207/2-Worldwide_Covid-19_Overview.ipynb)
 - Project 3: [Credit Card Fraud Detection](https://github.com/hugomaestri/data_science/blob/6d1835eaa6ccebb06263657124c2fc6d82c6bc5c/3-Credit_Card_Fraud_Detection.ipynb)
+- Project 4: [Customer Churn Prediction](https://github.com/hugomaestri/data_science/blob/4dfbbeceddaaedfda6c8e625d5e296263124cf92/4-Customer_Churn_Prediction.ipynb)
 
 ## About me 
 I am a driven and passionate Electrical Engineer with strong experience in automotive technology and a growing expertise in data science.
