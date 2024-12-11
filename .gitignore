@@ -1,1 +1,8 @@
-datasets/creditcard.csv
+# Dataset folder
+datasets
+
+# Environments
+.venv
+
+# Poetry
+poetry.lock
